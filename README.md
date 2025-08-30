@@ -1,5 +1,6 @@
 # 🎓 Student Performance Prediction using XGBoost
 
+
 This project applies advanced machine learning techniques, specifically **XGBoost Regression**, to predict student academic performance based on multiple personal, academic, and behavioral factors. It provides insights into which features influence grades the most and demonstrates a full ML pipeline from preprocessing to evaluation and visualization.
 
 ---
@@ -36,5 +37,6 @@ The goal is to develop a predictive model that estimates a student’s academic 
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn
 - XGBoost
+
 
 
